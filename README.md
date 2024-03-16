@@ -45,7 +45,7 @@ dataset/
 
 1. Clone this repository.
 2. Install the required libraries (`pip install -r requirements.txt`).
-3. Download the Plant Classification Dataset from [https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset/data]
+3. Download the Plant Classification Dataset from https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset/data
 4. Place your dataset in the dataset folder.
 5. Make appropriate changes in `Train_Model.py` file to access the dataset 
 6. Run the script: `python Train_Model.py`
